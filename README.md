@@ -7,7 +7,7 @@ This is a **Time Tracking Dashboard** project showcasing my front-end skills. Bu
 ## 🌐 Live Demo
 
 Check out the live project here:  
-[**Open Time Tracking Dashboard**](https://yomnaelsafty.github.io/time-tracking-dashboard/)
+[**Open Time Tracking Dashboard**](https://yomnaelsafty.github.io/-time-tracking-dashboard/)
 
 ---
 
@@ -44,4 +44,4 @@ Check out the live project here:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YomnaElsafty/time-tracking-dashboard.git
+git clone https://github.com/YomnaElsafty/-time-tracking-dashboard.git
